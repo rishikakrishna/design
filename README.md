@@ -1,2 +1,2 @@
 # Design Portfolio
-A collection of projects I've worked on to promote various student organizations and events.
+A collection of projects I've worked on to promote various organizations and events.
